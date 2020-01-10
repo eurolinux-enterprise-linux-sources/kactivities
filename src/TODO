@@ -1,0 +1,11 @@
+Lib:
+  Nothing
+
+Service:
+- Finish encryption
+
+Workspace:
+- KCM for activities
+- File plugin needs to disable itself if the resource linking
+  feature is not present in the service
+

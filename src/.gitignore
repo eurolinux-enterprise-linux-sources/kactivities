@@ -1,0 +1,10 @@
+.debug
+tags
+_tests
+.videproject/ctags
+*swp
+*~
+.kdev4
+.cmake-params
+.clang_complete
+kactivities.kdev4
